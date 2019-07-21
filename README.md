@@ -12,7 +12,11 @@ yarn
 ## Run
 
 ```sh
-yarn storybook
+yarn webpack-dev-server #http://localhost:9000
+```
+
+```sh
+yarn storybook #open storybook
 ```
 
 ## Eslint Fix
